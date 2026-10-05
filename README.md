@@ -22,12 +22,10 @@ The skill asks the user for a backup before it does anything. It shows a dry run
 1. Clone this repo into the skills folder of Claude Code:
 
    ```
-   git clone <URL of this repo> ~/.claude/skills/library-sorter
+   git clone https://github.com/Orpheus-21/library-sorter.git ~/.claude/skills/library-sorter
    ```
 
 2. Start a new Claude Code session. The skill is then available.
-
-If you have no remote URL, copy the folder of this repo to `~/.claude/skills/library-sorter`.
 
 ## Usage
 
